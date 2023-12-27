@@ -1,0 +1,58 @@
+[
+	{
+		"file": "D:\\Uproject\\ProjectEon 5.3\\Source\\ProjectEon\\ProjectEon.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Uproject\\ProjectEon 5.3\\.vscode\\compileCommands_ProjectEon\\ProjectEon.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Uproject\\ProjectEon 5.3\\Source\\ProjectEon\\ProjectEon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Uproject\\ProjectEon 5.3\\.vscode\\compileCommands_ProjectEon\\ProjectEon.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Uproject\\ProjectEon 5.3\\Source\\ProjectEon\\ProjectEon.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Uproject\\ProjectEon 5.3\\.vscode\\compileCommands_ProjectEon\\ProjectEon.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Uproject\\ProjectEon 5.3\\Source\\ProjectEon\\ProjectEonGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Uproject\\ProjectEon 5.3\\.vscode\\compileCommands_ProjectEon\\ProjectEon.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Uproject\\ProjectEon 5.3\\Source\\ProjectEon\\ProjectEonGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Uproject\\ProjectEon 5.3\\.vscode\\compileCommands_ProjectEon\\ProjectEon.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Uproject\\ProjectEon 5.3\\Source\\ProjectEon\\Test_platform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Uproject\\ProjectEon 5.3\\.vscode\\compileCommands_ProjectEon\\ProjectEon.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Uproject\\ProjectEon 5.3\\Source\\ProjectEon\\Test_platform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Uproject\\ProjectEon 5.3\\.vscode\\compileCommands_ProjectEon\\ProjectEon.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
